@@ -2,7 +2,7 @@
     "a_galaxy_workflow": "true", 
     "annotation": "", 
     "format-version": "0.1", 
-    "name": "getting vir1 and clustering", 
+    "name": "get vir2 and cluster using Vsearch", 
     "steps": {
         "0": {
             "annotation": "", 
